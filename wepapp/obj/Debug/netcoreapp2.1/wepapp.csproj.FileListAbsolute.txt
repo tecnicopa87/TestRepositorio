@@ -1,0 +1,14 @@
+C:\directorioAcces\repoTest\wepapp\bin\Debug\netcoreapp2.1\wepapp.deps.json
+C:\directorioAcces\repoTest\wepapp\bin\Debug\netcoreapp2.1\wepapp.runtimeconfig.json
+C:\directorioAcces\repoTest\wepapp\bin\Debug\netcoreapp2.1\wepapp.runtimeconfig.dev.json
+C:\directorioAcces\repoTest\wepapp\bin\Debug\netcoreapp2.1\wepapp.dll
+C:\directorioAcces\repoTest\wepapp\bin\Debug\netcoreapp2.1\wepapp.pdb
+C:\directorioAcces\repoTest\wepapp\obj\Debug\netcoreapp2.1\wepapp.csprojAssemblyReference.cache
+C:\directorioAcces\repoTest\wepapp\obj\Debug\netcoreapp2.1\wepapp.csproj.CoreCompileInputs.cache
+C:\directorioAcces\repoTest\wepapp\obj\Debug\netcoreapp2.1\wepapp.RazorAssemblyInfo.cache
+C:\directorioAcces\repoTest\wepapp\obj\Debug\netcoreapp2.1\wepapp.RazorAssemblyInfo.cs
+C:\directorioAcces\repoTest\wepapp\obj\Debug\netcoreapp2.1\wepapp.AssemblyInfoInputs.cache
+C:\directorioAcces\repoTest\wepapp\obj\Debug\netcoreapp2.1\wepapp.AssemblyInfo.cs
+C:\directorioAcces\repoTest\wepapp\obj\Debug\netcoreapp2.1\wepapp.RazorTargetAssemblyInfo.cache
+C:\directorioAcces\repoTest\wepapp\obj\Debug\netcoreapp2.1\wepapp.dll
+C:\directorioAcces\repoTest\wepapp\obj\Debug\netcoreapp2.1\wepapp.pdb
